@@ -1,0 +1,21 @@
+# Large model files
+*.pkl
+*.h5
+*.keras
+*.model
+
+# Datasets
+*.csv
+*.npy
+*.edf
+
+# Python/Environment
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
