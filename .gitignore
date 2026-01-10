@@ -1,13 +1,13 @@
-# Large model files
-*.pkl
-*.h5
-*.keras
-*.model
+# Large model files (Handled by LFS now)
+# *.pkl
+# *.h5
+# *.keras
+# *.model
 
-# Datasets
-*.csv
-*.npy
-*.edf
+# Datasets (Handled by LFS now)
+# *.csv
+# *.npy
+# *.edf
 
 # Python/Environment
 __pycache__/
